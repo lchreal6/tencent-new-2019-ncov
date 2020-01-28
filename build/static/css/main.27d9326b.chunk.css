@@ -1,0 +1,2 @@
+.App{font-family:sans-serif;text-align:center}.App .overview-cotainer{display:flex}.App .overview-cotainer>div{flex:1 1}.App .overview-cotainer>div .number{margin:0;font-weight:700;font-size:22px}.App .overview-cotainer>div .number.confirm{color:#d81d1b}.App .overview-cotainer>div .number.suspect{color:#f7ab1a}.App .overview-cotainer>div .number.cure{color:#178b50}.App .overview-cotainer>div .number.dead{color:#66666c}.App .overview-cotainer>div .text{margin-top:5px;font-size:12px}
+/*# sourceMappingURL=main.27d9326b.chunk.css.map */
