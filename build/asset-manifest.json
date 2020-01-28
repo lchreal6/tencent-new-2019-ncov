@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.27d9326b.chunk.css",
-    "main.js": "/static/js/main.8fe7da0f.chunk.js",
-    "main.js.map": "/static/js/main.8fe7da0f.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.dd4b8492.chunk.js": "/static/js/2.dd4b8492.chunk.js",
-    "static/js/2.dd4b8492.chunk.js.map": "/static/js/2.dd4b8492.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f84b604cf8de3090babd3de207726b6c.js": "/precache-manifest.f84b604cf8de3090babd3de207726b6c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.27d9326b.chunk.css.map": "/static/css/main.27d9326b.chunk.css.map"
+    "main.css": "/tecent-new-2019-ncov/build/static/css/main.27d9326b.chunk.css",
+    "main.js": "/tecent-new-2019-ncov/build/static/js/main.8fe7da0f.chunk.js",
+    "main.js.map": "/tecent-new-2019-ncov/build/static/js/main.8fe7da0f.chunk.js.map",
+    "runtime~main.js": "/tecent-new-2019-ncov/build/static/js/runtime~main.970baa0c.js",
+    "runtime~main.js.map": "/tecent-new-2019-ncov/build/static/js/runtime~main.970baa0c.js.map",
+    "static/js/2.9773316a.chunk.js": "/tecent-new-2019-ncov/build/static/js/2.9773316a.chunk.js",
+    "static/js/2.9773316a.chunk.js.map": "/tecent-new-2019-ncov/build/static/js/2.9773316a.chunk.js.map",
+    "index.html": "/tecent-new-2019-ncov/build/index.html",
+    "precache-manifest.f9ae547944e767ab896e97bee56b742c.js": "/tecent-new-2019-ncov/build/precache-manifest.f9ae547944e767ab896e97bee56b742c.js",
+    "service-worker.js": "/tecent-new-2019-ncov/build/service-worker.js",
+    "static/css/main.27d9326b.chunk.css.map": "/tecent-new-2019-ncov/build/static/css/main.27d9326b.chunk.css.map"
   }
 }
