@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  .overview-cotainer {
+    display: flex;
+    >div {
+      flex: 1;
+      .number {
+        margin: 0;
+        font-weight: bold;
+        font-size: 22px;
+        &.confirm {
+          color: #d81d1b
+        }
+        &.suspect {
+          color: #f7ab1a
+        }
+        &.cure {
+          color: #178b50
+        }
+        &.dead {
+          color: #66666c
+        }
+      }
+      .text {
+        margin-top: 5px;
+        font-size: 12px;
+      }
+    }
+  }
+}
