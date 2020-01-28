@@ -1,7 +1,7 @@
 *.log
 
 .DS_Store
-
+.output/
 node_modules/
 npm-debug.log
 yarn-error.log
