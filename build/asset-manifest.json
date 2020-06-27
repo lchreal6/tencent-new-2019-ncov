@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tecent-new-2019-ncov/build/static/css/main.27d9326b.chunk.css",
-    "main.js": "/tecent-new-2019-ncov/build/static/js/main.8fe7da0f.chunk.js",
-    "main.js.map": "/tecent-new-2019-ncov/build/static/js/main.8fe7da0f.chunk.js.map",
-    "runtime~main.js": "/tecent-new-2019-ncov/build/static/js/runtime~main.970baa0c.js",
-    "runtime~main.js.map": "/tecent-new-2019-ncov/build/static/js/runtime~main.970baa0c.js.map",
-    "static/js/2.9773316a.chunk.js": "/tecent-new-2019-ncov/build/static/js/2.9773316a.chunk.js",
-    "static/js/2.9773316a.chunk.js.map": "/tecent-new-2019-ncov/build/static/js/2.9773316a.chunk.js.map",
-    "index.html": "/tecent-new-2019-ncov/build/index.html",
-    "precache-manifest.f9ae547944e767ab896e97bee56b742c.js": "/tecent-new-2019-ncov/build/precache-manifest.f9ae547944e767ab896e97bee56b742c.js",
-    "service-worker.js": "/tecent-new-2019-ncov/build/service-worker.js",
-    "static/css/main.27d9326b.chunk.css.map": "/tecent-new-2019-ncov/build/static/css/main.27d9326b.chunk.css.map"
+    "main.css": "/tencent-new-2019-ncov/build/static/css/main.27d9326b.chunk.css",
+    "main.js": "/tencent-new-2019-ncov/build/static/js/main.8fe7da0f.chunk.js",
+    "main.js.map": "/tencent-new-2019-ncov/build/static/js/main.8fe7da0f.chunk.js.map",
+    "runtime~main.js": "/tencent-new-2019-ncov/build/static/js/runtime~main.68c70dce.js",
+    "runtime~main.js.map": "/tencent-new-2019-ncov/build/static/js/runtime~main.68c70dce.js.map",
+    "static/js/2.238ab4f3.chunk.js": "/tencent-new-2019-ncov/build/static/js/2.238ab4f3.chunk.js",
+    "static/js/2.238ab4f3.chunk.js.map": "/tencent-new-2019-ncov/build/static/js/2.238ab4f3.chunk.js.map",
+    "index.html": "/tencent-new-2019-ncov/build/index.html",
+    "precache-manifest.b79919760bb1014da73cf764f2b99fbe.js": "/tencent-new-2019-ncov/build/precache-manifest.b79919760bb1014da73cf764f2b99fbe.js",
+    "service-worker.js": "/tencent-new-2019-ncov/build/service-worker.js",
+    "static/css/main.27d9326b.chunk.css.map": "/tencent-new-2019-ncov/build/static/css/main.27d9326b.chunk.css.map"
   }
 }
