@@ -9,7 +9,7 @@
     "echarts": "4.6.0",
     "echarts-for-react": "2.0.15-beta.1",
     "jsonp": "0.2.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "react-scripts": "3.0.1"
